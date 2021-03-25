@@ -54,7 +54,7 @@ MOD_VAR='precip'
 #OBS_VAR='precip'
 #BIAS_VAR='pr'
 
-DATAPATH = '/home/hdesta/Documents/atmos/seasonalEastAfrica/eastAfrica/'
+DATAPATH = '/nird/projects/NS9853K/Teferi/data'
 FIGPATH = 'plots/'
 
 path = [DATAPATH]
